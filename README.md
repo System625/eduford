@@ -1,3 +1,3 @@
 # eduford-clone
 This is my first project.
-It is a webpage i cloned following easy tutorials
+It is a Website I cloned following Easy Tutorials
